@@ -42,6 +42,6 @@ Puedes conocer más sobre mí, mis proyectos y mi experiencia en:
 
 ## 📈 Estadísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mraldev&show_icons=true&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mraldev&show_icons=true&theme=tokyonight&count_private=true" alt="github stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mraldev&layout=compact&theme=tokyonight&count_private=true" alt="top langs" />
 </p>
